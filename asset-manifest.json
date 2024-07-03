@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "Gurshaan-1.github.io/static/css/main.08da8272.chunk.css",
+    "main.js": "Gurshaan-1.github.io/static/js/main.8d8a6ee1.chunk.js",
+    "main.js.map": "Gurshaan-1.github.io/static/js/main.8d8a6ee1.chunk.js.map",
+    "runtime-main.js": "Gurshaan-1.github.io/static/js/runtime-main.82c1c23b.js",
+    "runtime-main.js.map": "Gurshaan-1.github.io/static/js/runtime-main.82c1c23b.js.map",
+    "static/js/2.eb050ce6.chunk.js": "Gurshaan-1.github.io/static/js/2.eb050ce6.chunk.js",
+    "static/js/2.eb050ce6.chunk.js.map": "Gurshaan-1.github.io/static/js/2.eb050ce6.chunk.js.map",
+    "index.html": "Gurshaan-1.github.io/index.html",
+    "precache-manifest.308fd6ab7ba08a158fb7df1fbe543ef5.js": "Gurshaan-1.github.io/precache-manifest.308fd6ab7ba08a158fb7df1fbe543ef5.js",
+    "service-worker.js": "Gurshaan-1.github.io/service-worker.js",
+    "static/css/main.08da8272.chunk.css.map": "Gurshaan-1.github.io/static/css/main.08da8272.chunk.css.map",
+    "static/media/index.css": "Gurshaan-1.github.io/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/algo.png": "Gurshaan-1.github.io/static/media/algo.90c15fde.png",
+    "static/media/appslogo.png": "Gurshaan-1.github.io/static/media/appslogo.b91f4b72.png",
+    "static/media/da.jpg": "Gurshaan-1.github.io/static/media/da.92cf611e.jpg",
+    "static/media/exp.jpg": "Gurshaan-1.github.io/static/media/exp.95162435.jpg",
+    "static/media/all.css": "Gurshaan-1.github.io/static/media/fa-solid-900.8e4a6dcc.eot",
+    "static/media/freelance.svg": "Gurshaan-1.github.io/static/media/freelance.8f3fa4ae.svg",
+    "static/media/fst.jpg": "Gurshaan-1.github.io/static/media/fst.1f5c88a7.jpg",
+    "static/media/github_logo.png": "Gurshaan-1.github.io/static/media/github_logo.6eeb2e81.png",
+    "static/media/iitbhu.png": "Gurshaan-1.github.io/static/media/iitbhu.63ac0b8c.png",
+    "static/media/jsFramework.svg": "Gurshaan-1.github.io/static/media/jsFramework.5b4a6449.svg",
+    "static/media/man.jpg": "Gurshaan-1.github.io/static/media/man.6b5531ac.jpg",
+    "static/media/nitjlogo.png": "Gurshaan-1.github.io/static/media/nitjlogo.b8e152fd.png",
+    "static/media/profile.jpg": "Gurshaan-1.github.io/static/media/profile.6ffd1038.jpg",
+    "static/media/project.jpg": "Gurshaan-1.github.io/static/media/project.0bfa2d94.jpg",
+    "static/media/xiaomi.png": "Gurshaan-1.github.io/static/media/xiaomi.7e80788b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82c1c23b.js",
+    "static/js/2.eb050ce6.chunk.js",
+    "static/css/main.08da8272.chunk.css",
+    "static/js/main.8d8a6ee1.chunk.js"
+  ]
+}
