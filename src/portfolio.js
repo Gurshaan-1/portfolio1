@@ -6,7 +6,7 @@ const greeting = {
     "Current Student at Dr. B.R. Ambedkar National Institute of Technology | Aspiring Full-Stack Developer.",
   resumeLink:
     "https://drive.google.com/file/d/14zuV9c8W6g_iphjPY7aWIEj9xjMkvLtu/view?usp=drive_link",
-  portfolio_repository: "https://github.com/Gurshaan-1/Portfolio",
+  portfolio_repository: "https://github.com/Gurshaan-1/portfolio1",
   githubProfile: "https://github.com/Gurshaan-1",
 };
 
